@@ -1,2 +1,3 @@
-<?php  Print "Hello, World!"; ?>
- <?php  Echo "Hello, World!"; ?>
+<body>
+        <h1>Hello world!</h1>
+</body>
